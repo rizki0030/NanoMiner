@@ -1,1 +1,1 @@
-wget https://github.com/nanopool/nanominer/releases/download/v3.8.3/nanominer-linux-3.8.3.tar.gz && tar -xvf nanominer-linux-3.8.3.tar.gz && ./nanominer -algo verus  -pool1 = pool.verus.io:9998 -wallet RSKtrRwnTivtp92KWJhw5mp1hgAop4D2bV -coin VRSC -rigName Myrig
+wget https://github.com/nanopool/nanominer/releases/download/v3.8.3/nanominer-linux-3.8.3.tar.gz && tar -xvf nanominer-linux-3.8.3.tar.gz
